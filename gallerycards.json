@@ -2,20 +2,35 @@
     "type": "suggestion",
     "content": "<>",
     "metadata": {
-        "gva": {
-            "is_error": false
-        },
-        "glia": {
-            "message_group_id": "eea75b96-eb0d-48ee-81b4-185ba0db0cc0"
-        },
         "type": "galleryCards",
         "galleryCards": [
             {
-                "title": "<string>",
+                "title": "This is card A",
+                "subtitle": "Subtitle A",
+                "imageUrl": "https://media.istockphoto.com/id/499651256/photo/group-of-puppy-labrador-playing.webp?b=1&s=612x612&w=0&k=20&c=mJWfSXR-Zf6cUbpGEhIxwRzZTwnQmnEFYvphPAn0jMg=",
                 "options": [
                     {
-                        "text": "<string>",
-                        "value": "<string>"
+                        "text": "I want to buy this",
+                        "value": "This is not important for rendering, only for the AI Engine. If structure is needed, use stringified JSON"
+                    },
+                    {
+                        "text": "Not interested",
+                        "value": "This is not important for rendering, only for the AI Engine. If structure is needed, use stringified JSON"
+                    }
+                ]
+            },
+            {
+                "title": "This is card B",
+                "subtitle": "Subtitle B",
+                "imageUrl": "https://media.istockphoto.com/id/172720908/photo/two-buddies.webp?b=1&s=612x612&w=0&k=20&c=zSBR9jREMTBlifxp61f9iOgL89Rve73b55s5XaRbTsI=",
+                "options": [
+                    {
+                        "text": "Maybe",
+                        "value": "This is not important for rendering, only for the AI Engine. If structure is needed, use stringified JSON"
+                    },
+                    {
+                        "text": "Certainly Not",
+                        "value": "This is not important for rendering, only for the AI Engine. If structure is needed, use stringified JSON"
                     }
                 ]
             }
