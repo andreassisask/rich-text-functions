@@ -2,6 +2,12 @@
     "type": "suggestion",
     "content": "<>",
     "metadata": {
+        "gva": {
+            "is_error": false
+        },
+        "glia": {
+            "message_group_id": "eea75b96-eb0d-48ee-81b4-185ba0db0cc0"
+        },
         "type": "galleryCards",
         "galleryCards": [
             {
