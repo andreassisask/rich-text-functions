@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "type": "galleryCards",
+        "galleryCards": [
+            {
+                "title": "<string>",
+                "options": [
+                    {
+                        "text": "<string>",
+                        "value": "<string>"
+                    }
+                ]
+            }
+        ]
+    }
+}
