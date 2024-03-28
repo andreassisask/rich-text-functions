@@ -1,0 +1,30 @@
+{
+    "type": "suggestion",
+    "content": "<>",
+    "metadata": {
+        "type": "quickReplies",
+        "content": "Here are the things I can help you with:",
+        "options": [
+            {
+                "text": "⚖ Get my balance",
+                "value": "{\"utterance\":\"⚖ Get my balance\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Get my balance\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "Payments & Transfers",
+                "value": "{\"utterance\":\"Payments & Transfers\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Payments & Transfers\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "Help with products",
+                "value": "{\"utterance\":\"Help with products\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"What products do you offer?\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "Talk to a human",
+                "value": "{\"utterance\":\"Talk to a human\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Talk to a human\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "Suspected Fraud",
+                "value": "{\"utterance\":\"Suspected Fraud\",\"payload\":{\"destinationResponseName\":\"i.fai.security.reportfraud\",\"routingData\":{\"requestCallbackFromAgent\":false},\"messageType\":\"quickReplyTap\"}}"
+            }
+        ]
+    }
+}
