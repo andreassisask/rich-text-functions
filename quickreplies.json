@@ -11,7 +11,9 @@
             },
             {
                 "text": "Payments & Transfers",
-                "value": "{\"utterance\":\"Payments & Transfers\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Payments & Transfers\",\"messageType\":\"quickReplyTap\"}}"
+                "value": "",
+                "url": "https://glia.com",
+                "urlTarget": "urlTarget"
             },
             {
                 "text": "Help with products",
