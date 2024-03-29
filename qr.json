@@ -1,0 +1,29 @@
+{
+    "type": "suggestion",
+    "content": "<>",
+    "metadata": {
+        "type": "quickReplies",
+        "content": "Here are the things I can help you with:",
+        "options": [
+            {
+                "text": "⚖ Get my balance",
+                "value": "{\"utterance\":\"⚖ Get my balance\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Get my balance\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "I want a human",
+                "value": "I want a human"
+            },
+            {
+                "text": "Payments & Transfers Page",
+                "value": "",
+                "url": "https://glia.com",
+                "urlTarget": "blank"
+            },
+            {
+                "text": "Call us",
+                "url": "tel:+12065550100",
+                "value": ""
+            }
+        ]
+    }
+}
