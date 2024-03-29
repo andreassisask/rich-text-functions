@@ -1,0 +1,25 @@
+{
+    "type": "suggestion",
+    "content": "<>",
+    "metadata": {
+        "type": "persistentButtons",
+        "content": "Here are the things I can help you with:",
+        "options": [
+            {
+                "text": "⚖ Get my balance",
+                "value": "{\"utterance\":\"⚖ Get my balance\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Get my balance\",\"messageType\":\"quickReplyTap\"}}"
+            },
+            {
+                "text": "Payments & Transfers",
+                "value": "",
+                "url": "https://glia.com",
+                "urlTarget": "blank"
+            },
+            {
+                "text": "Call us",
+                "url": "tel:+12065550100",
+                "value": ""
+            }
+        ]
+    }
+}
