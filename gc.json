@@ -1,0 +1,41 @@
+{
+    "type": "suggestion",
+    "content": "<>",
+    "metadata": {
+        "type": "galleryCards",
+        "galleryCards": [
+            {
+                "title": "This is card A",
+                "subtitle": "Subtitle A",
+                "imageUrl": "https://media.istockphoto.com/id/499651256/photo/group-of-puppy-labrador-playing.webp?b=1&s=612x612&w=0&k=20&c=mJWfSXR-Zf6cUbpGEhIxwRzZTwnQmnEFYvphPAn0jMg=",
+                "options": [
+                    {
+                        "text": "I want to buy this",
+                        "value": "I want to buy this"
+                    },
+                    {
+                        "text": "Not interested",
+                        "value": "{\"not\": \"interested\"}"
+                    }
+                ]
+            },
+            {
+                "title": "This is card B",
+                "subtitle": "Subtitle B",
+                "imageUrl": "https://media.istockphoto.com/id/172720908/photo/two-buddies.webp?b=1&s=612x612&w=0&k=20&c=zSBR9jREMTBlifxp61f9iOgL89Rve73b55s5XaRbTsI=",
+                "options": [
+                    {
+                        "text": "Go to page",
+                        "value": "",
+                        "url:": "https://media.istockphoto.com"    
+                    },
+                    {
+                        "text": "Call if you want this",
+                        "value": "",
+                        "url": "tel:+12065550100"
+                    }
+                ]
+            }
+        ]
+    }
+}
