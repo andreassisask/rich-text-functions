@@ -10,7 +10,11 @@
                 "value": "{\"utterance\":\"⚖ Get my balance\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Get my balance\",\"messageType\":\"quickReplyTap\"}}"
             },
             {
-                "text": "Payments & Transfers",
+                "text": "I want a human",
+                "value": "I want a human",
+            },
+            {
+                "text": "Payments & Transfers Page",
                 "value": "",
                 "url": "https://glia.com",
                 "urlTarget": "blank"
