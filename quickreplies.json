@@ -16,16 +16,9 @@
                 "urlTarget": "blank"
             },
             {
-                "text": "Help with products",
-                "value": "{\"utterance\":\"Help with products\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"What products do you offer?\",\"messageType\":\"quickReplyTap\"}}"
-            },
-            {
-                "text": "Talk to a human",
-                "value": "{\"utterance\":\"Talk to a human\",\"payload\":{\"routingData\":{\"requestCallbackFromAgent\":false},\"destinationUtterance\":\"Talk to a human\",\"messageType\":\"quickReplyTap\"}}"
-            },
-            {
-                "text": "Suspected Fraud",
-                "value": "{\"utterance\":\"Suspected Fraud\",\"payload\":{\"destinationResponseName\":\"i.fai.security.reportfraud\",\"routingData\":{\"requestCallbackFromAgent\":false},\"messageType\":\"quickReplyTap\"}}"
+                "text": "Call us",
+                "url": "+12065550100",
+                "value": ""
             }
         ]
     }
